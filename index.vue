@@ -1,6 +1,6 @@
 <template>
     <div class="cdt-dashboard-box" :style="{height: typeof height == 'number' ? height+'px' : height}">
-        <div class="cdt-machine-box-item" v-if="type == 'machine">
+        <div class="cdt-machine-box-item" v-if="type == 'machine'">
             <div class="cdt-machine-box-item-bg"></div>
             <div class="cdt-machine-box-item-line cdt-machine-box-item-line-lt"></div>
             <div class="cdt-machine-box-item-line cdt-machine-box-item-line-tl"></div>
