@@ -29,38 +29,10 @@
                 type: String,
                 default: 'light',
             },
-            width: {
-                type: String,
-                default: '100%'
-            },
             height: {
                 type: String,
                 default: '100%'
             },
-            borderColor: {
-                type: String,
-                default: '#005896'
-            },
-            borderLineColor: {
-                type: String,
-                default: 'rgba(35,140,205,.85)'
-            },
-            borderInsideColor: {
-                type: String,
-                default: '#112248'
-            },
-            bgColor: {
-                type: String,
-                default: '#102c5b'
-            },
-            bgEndColor:{
-                type: String,
-                default: '#091c4a'
-            },
-            bgDeg:{
-                type: Number|String,
-                default: 90
-            }
         },
         created() {
             this.$nextTick(() => {

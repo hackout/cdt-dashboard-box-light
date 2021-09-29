@@ -1,0 +1,13 @@
+{
+  "name": "cdt-dashboard-box-light",
+  "version": "0.0.1",
+  "description": "自用款大数据盒子",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackout/cdt-dashboard-box-light.git"
+  },
+  "keywords": [],
+  "author": "Dennis Lui",
+  "license": "MIT"
+}
