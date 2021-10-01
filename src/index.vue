@@ -56,7 +56,6 @@
       border:  #005896 1px solid;
       border-radius: 10px;
       display: inline-block;
-      min-height: 200px;
       background:#102c5b linear-gradient(90deg,#102c5b 25%,#091c4a);
       position: relative;
   }

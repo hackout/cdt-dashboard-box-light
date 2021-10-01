@@ -1,6 +1,6 @@
 {
   "name": "cdt-dashboard-box-light",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "自用款大数据盒子",
   "main": "src/index.js",
   "repository": {
